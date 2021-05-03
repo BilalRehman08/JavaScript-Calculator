@@ -1,0 +1,22 @@
+#txt {
+    width: 190px;
+}
+
+.btn {
+    width: 200px;
+}
+
+.bb {
+    margin-top: 10px;
+    margin-left: 5px;
+    width: 40px;
+    height: 40px;
+    border-radius: 42px;
+    background: white;
+    box-shadow: inset 13px 13px 30px #b5b5b5, inset -13px -13px 30px #ffffff;
+}
+
+.bb:hover {
+    background-color: blue;
+    color: white;
+}
